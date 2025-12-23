@@ -1,29 +1,29 @@
 
-# 🟢 Insight Lite
+# Insight Lite
 
 **Instant cash flow clarity for solo founders.**  
 Zero setup. Mobile-ready. Free forever.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Insight Lite is the fastest way for solo founders to get a clear view of their cash flow.  
 No logins, no spreadsheets — just clarity.
 
 ---
 
-## ✨ Features
+## Features
 
-- 💸 Instant cash flow dashboard  
-- 📱 Mobile-first design (iOS + Android)  
-- 📤 Exportable summaries (PDF, CSV)  
-- 🔒 Local-first — no backend required  
-- 🆓 Free forever
+- Instant cash flow dashboard  
+- Mobile-first design (iOS + Android)  
+- Exportable summaries (PDF, CSV)  
+- Local-first — no backend required  
+- Free forever
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js (React)  
 - **Styling:** Tailwind CSS  
@@ -32,7 +32,7 @@ No logins, no spreadsheets — just clarity.
 
 ---
 
-## 🧪 Local Development
+## Local Development
 
 ```bash
 # 1. Clone the repo
